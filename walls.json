@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Video 1",
+        "url": "https://github.com/codenameakshay/sample-data/raw/main/video1.mp4",
+        "id": 467573,
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/video1.gif",
+        "collections": "Videos",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    },
+    {
+        "name": "Video 2",
+        "url": "https://github.com/codenameakshay/sample-data/raw/main/video2.mp4",
+        "id": 198742,
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/video2.gif",
+        "collections": "Videos",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    },
+    {
+        "name": "Video 3",
+        "url": "https://github.com/codenameakshay/sample-data/raw/main/video3.mp4",
+        "id": 129232,
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/video3.gif",
+        "collections": "Videos",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    },
+    {
+        "name": "Video 4",
+        "url": "https://github.com/codenameakshay/sample-data/raw/main/video4.mp4",
+        "id": 108572,
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/video4.gif",
+        "collections": "Videos",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    },
+    {
+        "name": "Runterra",
+        "id": 434718,
+        "url": "https://raw.githubusercontent.com/LiquidatorCoder2/CW/main/Refalls/054_Runterra.png",
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/LiquidatorCoder2/CW/main/Refalls/Thumbs/054_Runterra_thumb.jpg",
+        "collections": "Images",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    },
+    {
+        "name": "Leaves",
+        "id": 122942,
+        "url": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/photo1.jpg",
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/thumb1.jpg",
+        "collections": "Images",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    },
+    {
+        "name": "Stars",
+        "id": 152542,
+        "url": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/photo2.jpg",
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/thumb2.jpg",
+        "collections": "Images",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    },
+    {
+        "name": "Moonlight",
+        "id": 193442,
+        "url": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/photo3.jpg",
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/thumb3.jpg",
+        "collections": "Images",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    },
+    {
+        "name": "Cherry",
+        "id": 459258,
+        "url": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/photo4.jpg",
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/thumb4.jpg",
+        "collections": "Images",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    },
+    {
+        "name": "Golden Gate",
+        "id": 834582,
+        "url": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/photo5.jpg",
+        "author": "Akshay Maurya",
+        "thumbnail": "https://raw.githubusercontent.com/codenameakshay/sample-data/main/thumb5.jpg",
+        "collections": "Images",
+        "dimensions": "2000x4000",
+        "copyright": "Personal Use Only, Credits Required"
+    }
+]
