@@ -1,0 +1,12 @@
+[
+    {
+        "name": "images",
+        "desc": "Best photogenic wallpapers",
+        "premium": false
+    },
+    {
+        "name": "videos",
+        "desc": "Live wallpapers",
+        "premium": true
+    }
+]
